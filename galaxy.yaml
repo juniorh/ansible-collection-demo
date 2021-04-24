@@ -1,0 +1,6 @@
+namespace: "juniorh"
+name: "jenkins"
+version: "0.1.0"
+readme: "README.md"
+tags:
+  - demo

@@ -1,0 +1,6 @@
+{
+  "ANSIBLE_MODULE_ARGS": {
+    "custom_opt_1": true,
+    "custom_opt_2": "Testing 123"
+  }
+}
