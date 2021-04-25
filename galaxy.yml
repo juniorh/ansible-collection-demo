@@ -1,5 +1,5 @@
 namespace: "juniorh"
-name: "jenkins"
+name: "demo-collection"
 version: "0.1.0"
 readme: "README.md"
 authors:
